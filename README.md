@@ -19,4 +19,4 @@ pipenv install
 cp .env.example
 
 5. And add your mistral api:
-You can get via this (mistral.ai)[https://mistral.ai/]
+You can get via this [mistral.ai](https://mistral.ai/)
