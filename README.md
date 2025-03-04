@@ -1,6 +1,8 @@
-To use this project:
-1️. Clone the Repository
+This project demostrate of simple rag with langchain
 
+To use this project:
+
+1. Clone the Repository
 mkdir simple-rag-langchain
 cd simple-rag-langchain
 git clone https://github.com/amirulabdlatib/simple-langchain-rag.git
